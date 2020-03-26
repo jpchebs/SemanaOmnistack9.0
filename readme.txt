@@ -1,3 +1,5 @@
+*pessoal
+
 Tools
     insomnia
     mongo atlas
